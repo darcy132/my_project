@@ -6,4 +6,4 @@ def b():
 def c():
     print( 1 / 0)
     
-a()
+a() print('hello')
